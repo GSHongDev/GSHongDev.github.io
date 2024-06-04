@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>数据结构</title>
-    <url>/2024/03/19/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</url>
-    <content><![CDATA[<h1 id="复杂度"><a href="#复杂度" class="headerlink" title="复杂度"></a>复杂度</h1><h2 id="算法效率"><a href="#算法效率" class="headerlink" title="算法效率"></a>算法效率</h2><h3 id="如何衡量一个算法的好坏"><a href="#如何衡量一个算法的好坏" class="headerlink" title="如何衡量一个算法的好坏"></a>如何衡量一个算法的好坏</h3><p>111</p>
-<h3 id="算法的复杂度"><a href="#算法的复杂度" class="headerlink" title="算法的复杂度"></a>算法的复杂度</h3><p>111</p>
-<h2 id="时间复杂度"><a href="#时间复杂度" class="headerlink" title="时间复杂度"></a>时间复杂度</h2><h2 id="空间复杂度"><a href="#空间复杂度" class="headerlink" title="空间复杂度"></a>空间复杂度</h2><h2 id="常见复杂度的比较"><a href="#常见复杂度的比较" class="headerlink" title="常见复杂度的比较"></a>常见复杂度的比较</h2><h2 id="经典的例题"><a href="#经典的例题" class="headerlink" title="经典的例题"></a>经典的例题</h2>]]></content>
+    <title>离散数学</title>
+    <url>/2024/04/23/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/</url>
+    <content><![CDATA[<h1 id="一、集合论"><a href="#一、集合论" class="headerlink" title="一、集合论"></a>一、集合论</h1><h2 id="集合的初见"><a href="#集合的初见" class="headerlink" title="集合的初见"></a>集合的初见</h2><p>Definition<br>    A set is a group of objects(Simplest way)<br>    By a set we mean any collection M into a whole of definite distinct m(which )</p>
+]]></content>
       <tags>
-        <tag>数据结构</tag>
-        <tag>初阶</tag>
+        <tag>学科基础</tag>
+        <tag>数学</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>顺序表</title>
+    <url>/2024/05/26/%E9%A1%BA%E5%BA%8F%E8%A1%A8/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
